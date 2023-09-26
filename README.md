@@ -1,1 +1,1 @@
-# EthnusTask2
+# Mern_Assignment2
